@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frankie!</h1>
 <h3 align="center">A passionate developer from San Diego, CA. Currently in my last semester of undergrad at San Francisco State University, graduating with a degree in Computer Science. Looking forward to starting my career in Software Development.</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript** and **NextJS**
 
 - 📫 How to reach me **frankie.alex.murillo@gmail.com**
 
